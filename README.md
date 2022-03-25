@@ -19,6 +19,8 @@ F key -> turn the flashlight on and off
 
 E key -> take the key, open the door and the objects to beat the game
 
+ESC key -> Visible cursor 
+
 # DL Game
 
 Based on Slenderman x86.zip
