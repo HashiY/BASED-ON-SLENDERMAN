@@ -4,6 +4,8 @@
 # Instructions
 
 > The objective is to collect 10 items
+> 
+> If the item is on top of the tree, use the trampoline
 
 WASD -> walking
 
